@@ -4,7 +4,7 @@ import os
 import tqdm
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = "You_OpenAI_API_key"
 
 # Define model and parameters
 model_engine = "text-embedding-ada-002"
