@@ -7,7 +7,7 @@ import sys
 global FILE_NAME
 FILE_NAME = 'embedded_data.parquet'
 EMBEDDINGS_MODEL = "text-embedding-ada-002"
-openai.api_key = "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"
+openai.api_key = "Your_OpenAI_API_key"
 
 
 def parse_dataset():
